@@ -38,7 +38,11 @@ cd ../server
 npm install
 ```
 
-### 3. Set Up Environment Variables
+### 3. Set Up Upstash
+
+Go to upstash.com and create the database
+
+### 4. Set Up Environment Variables
 
 Client
 In the client directory, create a .env file based on the .env.example provided:
